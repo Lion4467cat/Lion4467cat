@@ -11,7 +11,7 @@
    ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
    ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Lion4467cat&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lion4467cat&layout=compact&theme=radical)
 
    ## 🔗 Connect
    - LinkedIn: www.linkedin.com/in/ssgokulaswamy
