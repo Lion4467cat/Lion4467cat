@@ -1,16 +1,19 @@
-## Hi there 👋
+# Yo, I'm S. S. Gokula Swamy 👋
 
-<!--
-**Lion4467cat/Lion4467cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   🎓 6th Sem CS Student @ BMSCE, Bangalore
+   🚀 Building my way to becoming a Full-Stack Engineer
+   💡 Currently working on: Nothing(Upskilling)
+   🌱 Learning: React, Next.js, Cloud Technologies
 
-Here are some ideas to get you started:
+   ## 🛠️ Tech Stack
+   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ## 📊 GitHub Stats
+   ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+   ## 🔗 Connect
+   - LinkedIn: [Your Profile]
+   - Twitter: [@yourhandle]
+   - Email: gokulaswamyss@gmail.com , ssgokula.ai23@bmsce.ac.in
