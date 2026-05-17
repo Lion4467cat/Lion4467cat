@@ -14,6 +14,5 @@
    ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
    ## 🔗 Connect
-   - LinkedIn: [Your Profile]
-   - Twitter: [@yourhandle]
+   - LinkedIn: www.linkedin.com/in/ssgokulaswamy
    - Email: gokulaswamyss@gmail.com , ssgokula.ai23@bmsce.ac.in
