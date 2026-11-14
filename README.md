@@ -6,7 +6,7 @@ Engineering deep learning systems across **3D multimodal visual metrology**, **G
 
 <p>
   <a href="https://lion4467cat.github.io/raikabuilds" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-raikabuilds-1d3b72?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://lion4467cat.github.io/raikabuilds/assets/SS_Gokula_Swamy_Resume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume_%2F_CV-PDF-1d3b72?style=flat-square&logo=readme&logoColor=white" alt="Resume / CV PDF" /></a>
+  <a href="https://lion4467cat.github.io/raikabuilds/cv.html" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume_%2F_CV-View_Online-1d3b72?style=flat-square&logo=readme&logoColor=white" alt="Resume / CV" /></a>
   <a href="https://linkedin.com/in/ssgokulaswamy" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-ssgokulaswamy-1f2328?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:gokulaswamyss@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-gokulaswamyss%40gmail.com-1f2328?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -82,4 +82,4 @@ Automated rooftop solar siting and financial modeling pipeline from satellite im
 
 ---
 
-<sub>Portfolio: <a href="https://lion4467cat.github.io/raikabuilds" target="_blank" rel="noopener noreferrer">lion4467cat.github.io/raikabuilds</a> · Resume: <a href="https://lion4467cat.github.io/raikabuilds/assets/SS_Gokula_Swamy_Resume.pdf" target="_blank" rel="noopener noreferrer">SS_Gokula_Swamy_Resume.pdf</a></sub>
+<sub>Portfolio: <a href="https://lion4467cat.github.io/raikabuilds" target="_blank" rel="noopener noreferrer">lion4467cat.github.io/raikabuilds</a> · Resume: <a href="https://lion4467cat.github.io/raikabuilds/cv.html" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a></sub>
